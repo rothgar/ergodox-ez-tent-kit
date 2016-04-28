@@ -9,7 +9,7 @@ It is based loosely on the [Freestyle2 ascent keyboard tent kit](http://www.kine
 
 # Print Settings
 
-![](images/stand-bare.jpg)
+![](images/parts.jpg)
 
 Printer Brand: MakerBot
 Printer: MakerBot Replicator (5th Generation)
