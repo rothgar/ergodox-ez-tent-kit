@@ -29,3 +29,11 @@ I have had some issues with the tent kit sliding on my desk. I have a smooth sur
 ## Hinge pieces don't fit
 
 I printed 2 sets of hinge pins (1.75mm and 1.25mm). It depends on what resolution you print your other parts and how well the prints turned out. I didn't have to file the hinges at all but I cut the extra length off the pins so they wouldn't stick out. It may also be good to put a dab of hot glue on the end to keep the pin in but I haven't had a problem yet.
+
+## Forks
+
+Some people have created alternatives based on this design.
+If you know of one please PR it here.
+I love to see them
+
+- (Moonlander alternative)[https://www.thingiverse.com/thing:5028257]
