@@ -4,7 +4,7 @@
 
 # Summary
 
-This is a custom keyboard tent git for the [ergodox ez](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard) keyboard. They sell a tent kit with the keyboard but I needed more angle with the keyboard so I designed this.
+This is a custom keyboard tent kit for the [ergodox ez](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard) keyboard. They sell a tent kit with the keyboard but I needed more angle with the keyboard so I designed this.
 It is based loosely on the [Freestyle2 ascent keyboard tent kit](http://www.kinesis-ergo.com/shop/freestyle2-ascent-accessory/) but with changes to make the design more printer friendly.
 
 # Print Settings
